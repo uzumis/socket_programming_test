@@ -12,10 +12,12 @@ C:
 - './client localhost (PORT as your choice)' to connect the server;
 - Type your string
 - Voilá.. the server will sort and send to you;
+- 
 Java:
 - Just excecute 'java TCPServer &' 
 - and after 'java TCPClient 
 - rinse and repeat the string input like C
+
 Python3 
 - 'python3 server.py &'
 - 'python3 client.py'
